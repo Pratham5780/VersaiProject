@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Local%20Storage-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" /> </p>
+
+
 # Versai - Modern Shopping Experience
 
 A modern e-commerce web application built with React, featuring user authentication, profile management, and order tracking.
