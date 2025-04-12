@@ -25,6 +25,7 @@ A modern e-commerce web application built with React, featuring user authenticat
 ## Tech Stack
 
 - React
+- Vite
 - React Router
 - Tailwind CSS
 - Local Storage for Data Persistence
